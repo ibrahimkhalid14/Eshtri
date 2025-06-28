@@ -1,0 +1,68 @@
+/* === Fonts === */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* === Navbar === */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color: #1B3C73;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+/* Logo Image */
+.logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+/* Brand Name (Logo Text) */
+.brand-name {
+    font-family: 'Pacifico', cursive;
+    font-size: 26px;
+    font-weight: normal;
+    margin-left: 12px;
+    color: #f47e34;
+    letter-spacing: 1px;
+}
+
+/* Left Section */
+.navbar-left {
+    display: flex;
+    align-items: center;
+}
+
+/* Right Menu */
+.navbar-right {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.navbar-right li {
+    cursor: pointer;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+
+.navbar-right li:hover {
+    color: #f47e34;
+}
+
+/* Links */
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navbar a:hover {
+    color: #f47e34;
+}

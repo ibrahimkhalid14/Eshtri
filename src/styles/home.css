@@ -1,0 +1,65 @@
+:root {
+    --navbar-height: 70px;
+}
+
+/* === Hero Section === */
+.hero {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - var(--navbar-height));
+    margin-top: var(--navbar-height);
+    overflow: hidden;
+}
+
+.hero-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0.6) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.hero-overlay h1 {
+    font-size: 3rem;
+    margin-bottom: 15px;
+}
+
+.hero-overlay h1 span {
+    color: #f47e34;
+}
+
+.hero-overlay p {
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+    max-width: 600px;
+}
+
+.hero-overlay button {
+    background-color: #f47e34;
+    padding: 14px 35px;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.hero-overlay button:hover {
+    background-color: #ff914d;
+    transform: scale(1.05);
+}
