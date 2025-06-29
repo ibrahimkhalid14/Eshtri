@@ -9,11 +9,12 @@ export default function Home() {
     <>
       <HeroSection />
       {categories.map(category => (
-        <CategorySection
-          key={category}
-          title={category}
-          products={products.filter(p => p.category === category)}
-        />
+        <section key={category} id={category.toLowerCase().replace(/\s+/g, '-')}>
+          <CategorySection
+            title={category}
+            products={products.filter(p => p.category === category)}
+          />
+        </section>
       ))}
     </>
   )

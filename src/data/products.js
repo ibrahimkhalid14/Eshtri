@@ -564,7 +564,7 @@ const products = [
     "price": 144.85,
     "stock": 17,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/sony_bravia_4k_model_3.jpg"
+    "image": "sony_bravia_4k_model_3.jpg"
   },
   {
     "id": 64,
@@ -573,7 +573,7 @@ const products = [
     "price": 559.45,
     "stock": 18,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/sony_bravia_4k_model_4.jpg"
+    "image": "sony_bravia_4k_model_4.jpg"
   },
   {
     "id": 65,
@@ -582,7 +582,7 @@ const products = [
     "price": 611.97,
     "stock": 5,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/sony_bravia_4k_model_5.jpg"
+    "image": "sony_bravia_4k_model_5.jpg"
   },
   {
     "id": 66,
@@ -591,7 +591,7 @@ const products = [
     "price": 1106.91,
     "stock": 15,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/tcl_roku_tv_model_1.jpg"
+    "image": "tcl_roku_tv_model_1.jpg"
   },
   {
     "id": 67,
@@ -600,7 +600,7 @@ const products = [
     "price": 816.02,
     "stock": 15,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/tcl_roku_tv_model_2.jpg"
+    "image": "tcl_roku_tv_model_2.jpg"
   },
   {
     "id": 68,
@@ -609,7 +609,7 @@ const products = [
     "price": 219.07,
     "stock": 12,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/tcl_roku_tv_model_3.jpg"
+    "image": "tcl_roku_tv_model_3.jpg"
   },
   {
     "id": 69,
@@ -618,7 +618,7 @@ const products = [
     "price": 1901.54,
     "stock": 3,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/tcl_roku_tv_model_4.jpg"
+    "image": "tcl_roku_tv_model_4.jpg"
   },
   {
     "id": 70,
@@ -627,7 +627,7 @@ const products = [
     "price": 307.47,
     "stock": 20,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/tcl_roku_tv_model_5.jpg"
+    "image": "tcl_roku_tv_model_5.jpg"
   },
   {
     "id": 71,
@@ -636,7 +636,7 @@ const products = [
     "price": 556.5,
     "stock": 12,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/panasonic_smart_tv_model_1.jpg"
+    "image": "panasonic_smart_tv_model_1.jpg"
   },
   {
     "id": 72,
@@ -645,7 +645,7 @@ const products = [
     "price": 1028.47,
     "stock": 14,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/panasonic_smart_tv_model_2.jpg"
+    "image": "panasonic_smart_tv_model_2.jpg"
   },
   {
     "id": 73,
@@ -654,7 +654,7 @@ const products = [
     "price": 2248.31,
     "stock": 17,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/panasonic_smart_tv_model_3.jpg"
+    "image": "panasonic_smart_tv_model_3.jpg"
   },
   {
     "id": 74,
@@ -663,7 +663,7 @@ const products = [
     "price": 1999.22,
     "stock": 10,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/panasonic_smart_tv_model_4.jpg"
+    "image": "panasonic_smart_tv_model_4.jpg"
   },
   {
     "id": 75,
@@ -672,7 +672,7 @@ const products = [
     "price": 554.44,
     "stock": 7,
     "description": "High-quality tvs product with excellent features.",
-    "image": "/assets/products/panasonic_smart_tv_model_5.jpg"
+    "image": "panasonic_smart_tv_model_5.jpg"
   },
   {
     "id": 76,
@@ -681,7 +681,7 @@ const products = [
     "price": 2403.18,
     "stock": 17,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/canon_eos_r6_model_1.jpg"
+    "image": "canon_eos_r6_model_1.jpg"
   },
   {
     "id": 77,
@@ -690,7 +690,7 @@ const products = [
     "price": 1474.26,
     "stock": 18,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/canon_eos_r6_model_2.jpg"
+    "image": "canon_eos_r6_model_2.jpg"
   },
   {
     "id": 78,
@@ -699,7 +699,7 @@ const products = [
     "price": 2090.86,
     "stock": 5,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/canon_eos_r6_model_3.jpg"
+    "image": "canon_eos_r6_model_3.jpg"
   },
   {
     "id": 79,
@@ -708,7 +708,7 @@ const products = [
     "price": 635.35,
     "stock": 17,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/canon_eos_r6_model_4.jpg"
+    "image": "canon_eos_r6_model_4.jpg"
   },
   {
     "id": 80,
@@ -717,7 +717,7 @@ const products = [
     "price": 122.6,
     "stock": 3,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/canon_eos_r6_model_5.jpg"
+    "image": "canon_eos_r6_model_5.jpg"
   },
   {
     "id": 81,
@@ -726,7 +726,7 @@ const products = [
     "price": 685.23,
     "stock": 16,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/nikon_z6_model_1.jpg"
+    "image": "nikon_z6_model_1.jpg"
   },
   {
     "id": 82,
@@ -735,7 +735,7 @@ const products = [
     "price": 1502.7,
     "stock": 11,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/nikon_z6_model_2.jpg"
+    "image": "nikon_z6_model_2.jpg"
   },
   {
     "id": 83,
@@ -744,7 +744,7 @@ const products = [
     "price": 235.31,
     "stock": 9,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/nikon_z6_model_3.jpg"
+    "image": "nikon_z6_model_3.jpg"
   },
   {
     "id": 84,
@@ -753,7 +753,7 @@ const products = [
     "price": 1795.07,
     "stock": 14,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/nikon_z6_model_4.jpg"
+    "image": "nikon_z6_model_4.jpg"
   },
   {
     "id": 85,
@@ -762,7 +762,7 @@ const products = [
     "price": 2059.56,
     "stock": 3,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/nikon_z6_model_5.jpg"
+    "image": "nikon_z6_model_5.jpg"
   },
   {
     "id": 86,
@@ -771,7 +771,7 @@ const products = [
     "price": 964.94,
     "stock": 9,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/sony_alpha_a7_model_1.jpg"
+    "image": "sony_alpha_a7_model_1.jpg"
   },
   {
     "id": 87,
@@ -780,7 +780,7 @@ const products = [
     "price": 1835.14,
     "stock": 16,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/sony_alpha_a7_model_2.jpg"
+    "image": "sony_alpha_a7_model_2.jpg"
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@ const products = [
     "price": 1246.52,
     "stock": 20,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/sony_alpha_a7_model_3.jpg"
+    "image": "sony_alpha_a7_model_3.jpg"
   },
   {
     "id": 89,
@@ -798,7 +798,7 @@ const products = [
     "price": 2342.05,
     "stock": 5,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/sony_alpha_a7_model_4.jpg"
+    "image": "sony_alpha_a7_model_4.jpg"
   },
   {
     "id": 90,
@@ -807,7 +807,7 @@ const products = [
     "price": 1713.19,
     "stock": 10,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/sony_alpha_a7_model_5.jpg"
+    "image": "sony_alpha_a7_model_5.jpg"
   },
   {
     "id": 91,
@@ -816,7 +816,7 @@ const products = [
     "price": 1277.73,
     "stock": 3,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/fujifilm_x_t5_model_1.jpg"
+    "image": "fujifilm_x_t5_model_1.jpg"
   },
   {
     "id": 92,
@@ -825,7 +825,7 @@ const products = [
     "price": 444.18,
     "stock": 4,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/fujifilm_x_t5_model_2.jpg"
+    "image": "fujifilm_x_t5_model_2.jpg"
   },
   {
     "id": 93,
@@ -834,7 +834,7 @@ const products = [
     "price": 585.45,
     "stock": 3,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/fujifilm_x_t5_model_3.jpg"
+    "image": "fujifilm_x_t5_model_3.jpg"
   },
   {
     "id": 94,
@@ -843,7 +843,7 @@ const products = [
     "price": 940.42,
     "stock": 6,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/fujifilm_x_t5_model_4.jpg"
+    "image": "fujifilm_x_t5_model_4.jpg"
   },
   {
     "id": 95,
@@ -852,7 +852,7 @@ const products = [
     "price": 922.65,
     "stock": 17,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/fujifilm_x_t5_model_5.jpg"
+    "image": "fujifilm_x_t5_model_5.jpg"
   },
   {
     "id": 96,
@@ -861,7 +861,7 @@ const products = [
     "price": 1696.5,
     "stock": 8,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/panasonic_lumix_g9_model_1.jpg"
+    "image": "panasonic_lumix_g9_model_1.jpg"
   },
   {
     "id": 97,
@@ -870,7 +870,7 @@ const products = [
     "price": 683.73,
     "stock": 7,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/panasonic_lumix_g9_model_2.jpg"
+    "image": "panasonic_lumix_g9_model_2.jpg"
   },
   {
     "id": 98,
@@ -879,7 +879,7 @@ const products = [
     "price": 817.06,
     "stock": 14,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/panasonic_lumix_g9_model_3.jpg"
+    "image": "panasonic_lumix_g9_model_3.jpg"
   },
   {
     "id": 99,
@@ -888,7 +888,7 @@ const products = [
     "price": 899.09,
     "stock": 15,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/panasonic_lumix_g9_model_4.jpg"
+    "image": "panasonic_lumix_g9_model_4.jpg"
   },
   {
     "id": 100,
@@ -897,7 +897,7 @@ const products = [
     "price": 1372.3,
     "stock": 7,
     "description": "High-quality cameras product with excellent features.",
-    "image": "/assets/products/panasonic_lumix_g9_model_5.jpg"
+    "image": "panasonic_lumix_g9_model_5.jpg"
   },
   {
     "id": 101,
@@ -906,7 +906,7 @@ const products = [
     "price": 151.53,
     "stock": 9,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/airpods_pro_model_1.jpg"
+    "image": "airpods_pro_model_1.jpg"
   },
   {
     "id": 102,
@@ -915,7 +915,7 @@ const products = [
     "price": 1166.36,
     "stock": 7,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/airpods_pro_model_2.jpg"
+    "image": "airpods_pro_model_2.jpg"
   },
   {
     "id": 103,
@@ -924,7 +924,7 @@ const products = [
     "price": 1329.31,
     "stock": 8,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/airpods_pro_model_3.jpg"
+    "image": "airpods_pro_model_3.jpg"
   },
   {
     "id": 104,
@@ -933,7 +933,7 @@ const products = [
     "price": 2481.46,
     "stock": 19,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/airpods_pro_model_4.jpg"
+    "image": "airpods_pro_model_4.jpg"
   },
   {
     "id": 105,
@@ -942,7 +942,7 @@ const products = [
     "price": 1239.82,
     "stock": 17,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/airpods_pro_model_5.jpg"
+    "image": "airpods_pro_model_5.jpg"
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@ const products = [
     "price": 672.0,
     "stock": 4,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/samsung_galaxy_buds_model_1.jpg"
+    "image": "samsung_galaxy_buds_model_1.jpg"
   },
   {
     "id": 107,
@@ -960,7 +960,7 @@ const products = [
     "price": 1302.9,
     "stock": 12,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/samsung_galaxy_buds_model_2.jpg"
+    "image": "samsung_galaxy_buds_model_2.jpg"
   },
   {
     "id": 108,
@@ -969,7 +969,7 @@ const products = [
     "price": 938.16,
     "stock": 15,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/samsung_galaxy_buds_model_3.jpg"
+    "image": "samsung_galaxy_buds_model_3.jpg"
   },
   {
     "id": 109,
@@ -978,7 +978,7 @@ const products = [
     "price": 572.64,
     "stock": 17,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/samsung_galaxy_buds_model_4.jpg"
+    "image": "samsung_galaxy_buds_model_4.jpg"
   },
   {
     "id": 110,
@@ -987,7 +987,7 @@ const products = [
     "price": 2499.36,
     "stock": 3,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/samsung_galaxy_buds_model_5.jpg"
+    "image": "samsung_galaxy_buds_model_5.jpg"
   },
   {
     "id": 111,
@@ -996,7 +996,7 @@ const products = [
     "price": 388.5,
     "stock": 9,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/logitech_mx_mouse_model_1.jpg"
+    "image": "logitech_mx_mouse_model_1.jpg"
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@ const products = [
     "price": 873.75,
     "stock": 7,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/logitech_mx_mouse_model_2.jpg"
+    "image": "logitech_mx_mouse_model_2.jpg"
   },
   {
     "id": 113,
@@ -1014,7 +1014,7 @@ const products = [
     "price": 208.67,
     "stock": 3,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/logitech_mx_mouse_model_3.jpg"
+    "image": "logitech_mx_mouse_model_3.jpg"
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@ const products = [
     "price": 975.34,
     "stock": 3,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/logitech_mx_mouse_model_4.jpg"
+    "image": "logitech_mx_mouse_model_4.jpg"
   },
   {
     "id": 115,
@@ -1032,7 +1032,7 @@ const products = [
     "price": 2244.42,
     "stock": 13,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/logitech_mx_mouse_model_5.jpg"
+    "image": "logitech_mx_mouse_model_5.jpg"
   },
   {
     "id": 116,
@@ -1041,7 +1041,7 @@ const products = [
     "price": 251.1,
     "stock": 5,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/apple_magic_keyboard_model_1.jpg"
+    "image": "apple_magic_keyboard_model_1.jpg"
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@ const products = [
     "price": 317.22,
     "stock": 4,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/apple_magic_keyboard_model_2.jpg"
+    "image": "apple_magic_keyboard_model_2.jpg"
   },
   {
     "id": 118,
@@ -1059,7 +1059,7 @@ const products = [
     "price": 2041.5,
     "stock": 10,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/apple_magic_keyboard_model_3.jpg"
+    "image": "apple_magic_keyboard_model_3.jpg"
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@ const products = [
     "price": 1509.34,
     "stock": 7,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/apple_magic_keyboard_model_4.jpg"
+    "image": "apple_magic_keyboard_model_4.jpg"
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@ const products = [
     "price": 1789.42,
     "stock": 19,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/apple_magic_keyboard_model_5.jpg"
+    "image": "apple_magic_keyboard_model_5.jpg"
   },
   {
     "id": 121,
@@ -1086,7 +1086,7 @@ const products = [
     "price": 837.36,
     "stock": 6,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/anker_power_bank_model_1.jpg"
+    "image": "anker_power_bank_model_1.jpg"
   },
   {
     "id": 122,
@@ -1095,7 +1095,7 @@ const products = [
     "price": 158.64,
     "stock": 17,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/anker_power_bank_model_2.jpg"
+    "image": "anker_power_bank_model_2.jpg"
   },
   {
     "id": 123,
@@ -1104,7 +1104,7 @@ const products = [
     "price": 786.87,
     "stock": 13,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/anker_power_bank_model_3.jpg"
+    "image": "anker_power_bank_model_3.jpg"
   },
   {
     "id": 124,
@@ -1113,7 +1113,7 @@ const products = [
     "price": 2462.18,
     "stock": 4,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/anker_power_bank_model_4.jpg"
+    "image": "anker_power_bank_model_4.jpg"
   },
   {
     "id": 125,
@@ -1122,7 +1122,7 @@ const products = [
     "price": 146.82,
     "stock": 11,
     "description": "High-quality accessories product with excellent features.",
-    "image": "/assets/products/anker_power_bank_model_5.jpg"
+    "image": "anker_power_bank_model_5.jpg"
   },
   {
     "id": 126,
@@ -1131,7 +1131,7 @@ const products = [
     "price": 1553.88,
     "stock": 11,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/playstation_5_model_1.jpg"
+    "image": "playstation_5_model_1.jpg"
   },
   {
     "id": 127,
@@ -1140,7 +1140,7 @@ const products = [
     "price": 227.9,
     "stock": 9,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/playstation_5_model_2.jpg"
+    "image": "playstation_5_model_2.jpg"
   },
   {
     "id": 128,
@@ -1149,7 +1149,7 @@ const products = [
     "price": 2198.7,
     "stock": 19,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/playstation_5_model_3.jpg"
+    "image": "playstation_5_model_3.jpg"
   },
   {
     "id": 129,
@@ -1158,7 +1158,7 @@ const products = [
     "price": 1335.31,
     "stock": 15,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/playstation_5_model_4.jpg"
+    "image": "playstation_5_model_4.jpg"
   },
   {
     "id": 130,
@@ -1167,7 +1167,7 @@ const products = [
     "price": 110.79,
     "stock": 13,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/playstation_5_model_5.jpg"
+    "image": "playstation_5_model_5.jpg"
   },
   {
     "id": 131,
@@ -1176,7 +1176,7 @@ const products = [
     "price": 388.7,
     "stock": 7,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/xbox_series_x_model_1.jpg"
+    "image": "xbox_series_x_model_1.jpg"
   },
   {
     "id": 132,
@@ -1185,7 +1185,7 @@ const products = [
     "price": 1489.44,
     "stock": 4,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/xbox_series_x_model_2.jpg"
+    "image": "xbox_series_x_model_2.jpg"
   },
   {
     "id": 133,
@@ -1194,7 +1194,7 @@ const products = [
     "price": 1002.93,
     "stock": 15,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/xbox_series_x_model_3.jpg"
+    "image": "xbox_series_x_model_3.jpg"
   },
   {
     "id": 134,
@@ -1203,7 +1203,7 @@ const products = [
     "price": 534.11,
     "stock": 18,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/xbox_series_x_model_4.jpg"
+    "image": "xbox_series_x_model_4.jpg"
   },
   {
     "id": 135,
@@ -1212,7 +1212,7 @@ const products = [
     "price": 1299.28,
     "stock": 11,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/xbox_series_x_model_5.jpg"
+    "image": "xbox_series_x_model_5.jpg"
   },
   {
     "id": 136,
@@ -1221,7 +1221,7 @@ const products = [
     "price": 587.59,
     "stock": 4,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/nintendo_switch_model_1.jpg"
+    "image": "nintendo_switch_model_1.jpg"
   },
   {
     "id": 137,
@@ -1230,7 +1230,7 @@ const products = [
     "price": 790.78,
     "stock": 5,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/nintendo_switch_model_2.jpg"
+    "image": "nintendo_switch_model_2.jpg"
   },
   {
     "id": 138,
@@ -1239,7 +1239,7 @@ const products = [
     "price": 923.45,
     "stock": 3,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/nintendo_switch_model_3.jpg"
+    "image": "nintendo_switch_model_3.jpg"
   },
   {
     "id": 139,
@@ -1248,7 +1248,7 @@ const products = [
     "price": 327.7,
     "stock": 11,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/nintendo_switch_model_4.jpg"
+    "image": "nintendo_switch_model_4.jpg"
   },
   {
     "id": 140,
@@ -1257,7 +1257,7 @@ const products = [
     "price": 1225.01,
     "stock": 3,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/nintendo_switch_model_5.jpg"
+    "image": "nintendo_switch_model_5.jpg"
   },
   {
     "id": 141,
@@ -1266,7 +1266,7 @@ const products = [
     "price": 2412.05,
     "stock": 3,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/razer_gaming_mouse_model_1.jpg"
+    "image": "razer_gaming_mouse_model_1.jpg"
   },
   {
     "id": 142,
@@ -1275,7 +1275,7 @@ const products = [
     "price": 446.54,
     "stock": 12,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/razer_gaming_mouse_model_2.jpg"
+    "image": "razer_gaming_mouse_model_2.jpg"
   },
   {
     "id": 143,
@@ -1284,7 +1284,7 @@ const products = [
     "price": 852.15,
     "stock": 8,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/razer_gaming_mouse_model_3.jpg"
+    "image": "razer_gaming_mouse_model_3.jpg"
   },
   {
     "id": 144,
@@ -1293,7 +1293,7 @@ const products = [
     "price": 1126.3,
     "stock": 8,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/razer_gaming_mouse_model_4.jpg"
+    "image": "razer_gaming_mouse_model_4.jpg"
   },
   {
     "id": 145,
@@ -1302,7 +1302,7 @@ const products = [
     "price": 1788.14,
     "stock": 4,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/razer_gaming_mouse_model_5.jpg"
+    "image": "razer_gaming_mouse_model_5.jpg"
   },
   {
     "id": 146,
@@ -1311,7 +1311,7 @@ const products = [
     "price": 1416.47,
     "stock": 13,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/logitech_gaming_keyboard_model_1.jpg"
+    "image": "logitech_gaming_keyboard_model_1.jpg"
   },
   {
     "id": 147,
@@ -1320,7 +1320,7 @@ const products = [
     "price": 2232.1,
     "stock": 15,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/logitech_gaming_keyboard_model_2.jpg"
+    "image": "logitech_gaming_keyboard_model_2.jpg"
   },
   {
     "id": 148,
@@ -1329,7 +1329,7 @@ const products = [
     "price": 773.52,
     "stock": 3,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/logitech_gaming_keyboard_model_3.jpg"
+    "image": "logitech_gaming_keyboard_model_3.jpg"
   },
   {
     "id": 149,
@@ -1338,7 +1338,7 @@ const products = [
     "price": 544.47,
     "stock": 11,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/logitech_gaming_keyboard_model_4.jpg"
+    "image": "logitech_gaming_keyboard_model_4.jpg"
   },
   {
     "id": 150,
@@ -1347,7 +1347,7 @@ const products = [
     "price": 1583.98,
     "stock": 19,
     "description": "High-quality gaming product with excellent features.",
-    "image": "/assets/products/logitech_gaming_keyboard_model_5.jpg"
+    "image": "logitech_gaming_keyboard_model_5.jpg"
   },
   {
     "id": 151,
@@ -1356,7 +1356,7 @@ const products = [
     "price": 751.36,
     "stock": 19,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/dyson_v15_model_1.jpg"
+    "image": "dyson_v15_model_1.jpg"
   },
   {
     "id": 152,
@@ -1365,7 +1365,7 @@ const products = [
     "price": 486.14,
     "stock": 8,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/dyson_v15_model_2.jpg"
+    "image": "dyson_v15_model_2.jpg"
   },
   {
     "id": 153,
@@ -1374,7 +1374,7 @@ const products = [
     "price": 2178.11,
     "stock": 4,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/dyson_v15_model_3.jpg"
+    "image": "dyson_v15_model_3.jpg"
   },
   {
     "id": 154,
@@ -1383,7 +1383,7 @@ const products = [
     "price": 2208.94,
     "stock": 14,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/dyson_v15_model_4.jpg"
+    "image": "dyson_v15_model_4.jpg"
   },
   {
     "id": 155,
@@ -1392,7 +1392,7 @@ const products = [
     "price": 178.87,
     "stock": 18,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/dyson_v15_model_5.jpg"
+    "image": "dyson_v15_model_5.jpg"
   },
   {
     "id": 156,
@@ -1401,7 +1401,7 @@ const products = [
     "price": 786.2,
     "stock": 9,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/irobot_roomba_model_1.jpg"
+    "image": "irobot_roomba_model_1.jpg"
   },
   {
     "id": 157,
@@ -1410,7 +1410,7 @@ const products = [
     "price": 2259.45,
     "stock": 15,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/irobot_roomba_model_2.jpg"
+    "image": "irobot_roomba_model_2.jpg"
   },
   {
     "id": 158,
@@ -1419,7 +1419,7 @@ const products = [
     "price": 620.69,
     "stock": 6,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/irobot_roomba_model_3.jpg"
+    "image": "irobot_roomba_model_3.jpg"
   },
   {
     "id": 159,
@@ -1428,7 +1428,7 @@ const products = [
     "price": 1542.27,
     "stock": 8,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/irobot_roomba_model_4.jpg"
+    "image": "irobot_roomba_model_4.jpg"
   },
   {
     "id": 160,
@@ -1437,7 +1437,7 @@ const products = [
     "price": 2073.15,
     "stock": 8,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/irobot_roomba_model_5.jpg"
+    "image": "irobot_roomba_model_5.jpg"
   },
   {
     "id": 161,
@@ -1446,7 +1446,7 @@ const products = [
     "price": 1496.16,
     "stock": 12,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/instant_pot_model_1.jpg"
+    "image": "instant_pot_model_1.jpg"
   },
   {
     "id": 162,
@@ -1455,7 +1455,7 @@ const products = [
     "price": 566.41,
     "stock": 3,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/instant_pot_model_2.jpg"
+    "image": "instant_pot_model_2.jpg"
   },
   {
     "id": 163,
@@ -1464,7 +1464,7 @@ const products = [
     "price": 2078.88,
     "stock": 10,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/instant_pot_model_3.jpg"
+    "image": "instant_pot_model_3.jpg"
   },
   {
     "id": 164,
@@ -1473,7 +1473,7 @@ const products = [
     "price": 692.14,
     "stock": 16,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/instant_pot_model_4.jpg"
+    "image": "instant_pot_model_4.jpg"
   },
   {
     "id": 165,
@@ -1482,7 +1482,7 @@ const products = [
     "price": 2361.0,
     "stock": 14,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/instant_pot_model_5.jpg"
+    "image": "instant_pot_model_5.jpg"
   },
   {
     "id": 166,
@@ -1491,7 +1491,7 @@ const products = [
     "price": 686.47,
     "stock": 9,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/nespresso_machine_model_1.jpg"
+    "image": "nespresso_machine_model_1.jpg"
   },
   {
     "id": 167,
@@ -1500,7 +1500,7 @@ const products = [
     "price": 1768.18,
     "stock": 17,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/nespresso_machine_model_2.jpg"
+    "image": "nespresso_machine_model_2.jpg"
   },
   {
     "id": 168,
@@ -1509,7 +1509,7 @@ const products = [
     "price": 388.41,
     "stock": 3,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/nespresso_machine_model_3.jpg"
+    "image": "nespresso_machine_model_3.jpg"
   },
   {
     "id": 169,
@@ -1518,7 +1518,7 @@ const products = [
     "price": 1980.54,
     "stock": 12,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/nespresso_machine_model_4.jpg"
+    "image": "nespresso_machine_model_4.jpg"
   },
   {
     "id": 170,
@@ -1527,7 +1527,7 @@ const products = [
     "price": 2177.6,
     "stock": 12,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/nespresso_machine_model_5.jpg"
+    "image": "nespresso_machine_model_5.jpg"
   },
   {
     "id": 171,
@@ -1536,7 +1536,7 @@ const products = [
     "price": 1770.95,
     "stock": 11,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/samsung_air_purifier_model_1.jpg"
+    "image": "samsung_air_purifier_model_1.jpg"
   },
   {
     "id": 172,
@@ -1545,7 +1545,7 @@ const products = [
     "price": 169.71,
     "stock": 9,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/samsung_air_purifier_model_2.jpg"
+    "image": "samsung_air_purifier_model_2.jpg"
   },
   {
     "id": 173,
@@ -1554,7 +1554,7 @@ const products = [
     "price": 572.61,
     "stock": 8,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/samsung_air_purifier_model_3.jpg"
+    "image": "samsung_air_purifier_model_3.jpg"
   },
   {
     "id": 174,
@@ -1563,7 +1563,7 @@ const products = [
     "price": 187.17,
     "stock": 20,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/samsung_air_purifier_model_4.jpg"
+    "image": "samsung_air_purifier_model_4.jpg"
   },
   {
     "id": 175,
@@ -1572,7 +1572,7 @@ const products = [
     "price": 2148.01,
     "stock": 17,
     "description": "High-quality home appliances product with excellent features.",
-    "image": "/assets/products/samsung_air_purifier_model_5.jpg"
+    "image": "samsung_air_purifier_model_5.jpg"
   }
 ];
 
